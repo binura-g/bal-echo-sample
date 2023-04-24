@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["ballerina_echo_service_sample"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/Service","Category/Service","Internal/http"]
+  name = "ballerina_echo_service_sample"
+  org = "choreopdpe2edev"
+  version = "3.1.1"
+
